@@ -172,7 +172,7 @@ function App() {
             Whether you have a question or just want to say hi, I'll get back to you!
           </p>
           
-          <a href="mailto:danieljarero@gmail.com" className="inline-block px-8 py-4 bg-transparent border border-cyan-400 text-cyan-400 rounded hover:bg-cyan-400/10 transition font-mono">
+          <a href="mailto:jarerodaniel323@gmail.com" className="inline-block px-8 py-4 bg-transparent border border-cyan-400 text-cyan-400 rounded hover:bg-cyan-400/10 transition font-mono">
             Say Hello
           </a>
 
